@@ -1,6 +1,6 @@
 ### Hey!
 My name is Jan and I am an undergraduate student at the University of Liverpool pursuing a degree in Computer Science with Software Development.
-My main language of interest is Python but I also feel confident in JAVA. 
+My main language of interest is Python but I also feel confident in Java. 
 
 #### I'm currently learning:
 * -Python
